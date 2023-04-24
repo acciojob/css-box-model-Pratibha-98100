@@ -10,6 +10,6 @@ div{
 
   p{
 	  background-color:lightblue;
-	  border: 15px solid rgb(173, 216, 230);
 	  padding:15px;
+	  border: 15px solid blue;
   }
