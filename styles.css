@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+
+div{
+    margin :20px !important;
+  }
+
+  p{
+    border: 15px solid blue;
+    display:inline block !important;
+    width: 300px !important;
+    padding: 50px !important;
+    margin :20px !important;
+  }
