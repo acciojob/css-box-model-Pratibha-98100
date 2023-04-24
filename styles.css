@@ -1,16 +1,15 @@
 /* Your CSS Code here. */
 
 div{
-    margin :20px !important;
+    display:inline block !important;
+    width: 300px;
+	padding: 50px;
+	margin :20px;
 	border: 1px solid black;
-	width: +'300px';
   }
 
   p{
-    border: 15px solid blue;
-    display:inline block !important;
-    width: 300px !important;
-    padding: 50px !important;
 	  background-color:lightblue;
-	  margin :20px !important;
+	  border: 15px solid blue;
+	  padding:15px;
   }
