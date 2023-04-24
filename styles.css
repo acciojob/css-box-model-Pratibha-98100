@@ -2,6 +2,8 @@
 
 div{
     margin :20px !important;
+	border: 1px solid black;
+	width: 470px;
   }
 
   p{
@@ -9,5 +11,6 @@ div{
     display:inline block !important;
     width: 300px !important;
     padding: 50px !important;
-    margin :20px !important;
+	  background-color:lightblue;
+	  margin :20px !important;
   }
